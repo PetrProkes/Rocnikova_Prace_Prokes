@@ -1,0 +1,15 @@
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\bin\Debug\net10.0\LoxoneControlApp.exe
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\bin\Debug\net10.0\LoxoneControlApp.deps.json
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\bin\Debug\net10.0\LoxoneControlApp.runtimeconfig.json
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\bin\Debug\net10.0\LoxoneControlApp.dll
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\bin\Debug\net10.0\LoxoneControlApp.pdb
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.AssemblyInfoInputs.cache
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.AssemblyInfo.cs
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.csproj.CoreCompileInputs.cache
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.sourcelink.json
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.dll
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\refint\LoxoneControlApp.dll
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.pdb
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\LoxoneControlApp.genruntimeconfig.cache
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlApp\LoxoneControlApp\obj\Debug\net10.0\ref\LoxoneControlApp.dll
