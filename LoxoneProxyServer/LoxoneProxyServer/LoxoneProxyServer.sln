@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.6.11716.218 insiders
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoxoneProxyServer", "LoxoneProxyServer.csproj", "{B7E2925A-E74A-0169-83E0-802BF0DF5DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E2925A-E74A-0169-83E0-802BF0DF5DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E2925A-E74A-0169-83E0-802BF0DF5DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E2925A-E74A-0169-83E0-802BF0DF5DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E2925A-E74A-0169-83E0-802BF0DF5DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92D11BC6-8CAD-4C76-8889-CF3DB046D26D}
+	EndGlobalSection
+EndGlobal

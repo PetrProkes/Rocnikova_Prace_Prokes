@@ -1,0 +1,15 @@
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\bin\Debug\net10.0\LoxoneControlClient.exe
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\bin\Debug\net10.0\LoxoneControlClient.deps.json
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\bin\Debug\net10.0\LoxoneControlClient.runtimeconfig.json
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\bin\Debug\net10.0\LoxoneControlClient.dll
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\bin\Debug\net10.0\LoxoneControlClient.pdb
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.AssemblyInfoInputs.cache
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.AssemblyInfo.cs
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.csproj.CoreCompileInputs.cache
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.sourcelink.json
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.dll
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\refint\LoxoneControlClient.dll
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.pdb
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\LoxoneControlClient.genruntimeconfig.cache
+C:\Users\petrp\OneDrive\Dokumenty\Škola\Ročníková Práce\LoxoneControlClient\obj\Debug\net10.0\ref\LoxoneControlClient.dll
