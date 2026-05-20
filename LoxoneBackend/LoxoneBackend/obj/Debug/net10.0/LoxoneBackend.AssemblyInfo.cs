@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoxoneBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0633216cee080fa68d040b9f52bcb510edabf9ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52cd3e9c91013a028a39f00b0a4f8a7ad31d68b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoxoneBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoxoneBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
